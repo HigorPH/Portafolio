@@ -18,7 +18,7 @@ export const portfolioData = {
 
   skills: [
     "JavaScript", "React.js", "Node.js", "PostgreSQL",
-    "HTML5 / CSS3", "Git & GitHub", "Responsive Design", "UI/UX Principles"
+    "HTML5 / CSS3", "Git & GitHub", "Responsive Design", "UI/UX"
   ],
 
   projects: [

@@ -50,7 +50,7 @@ export const portfolioData = {
       title: "API RICK Y MORTY",
       description: "Aplicación web interactiva para explorar personajes de la serie Rick y Morty. Implementación de búsqueda, filtros y detalles completos de cada personaje.",
       tags: ["HTML", "CSS", "JavaScript"],
-      image: "img/RickAndMorty.png",
+      image: "img/RickaMorty.png",
       demo: "https://api-rickandmorty-sigma.vercel.app/",
       code: "https://github.com/HigorPH/API-RICKANDMORTY"
     },

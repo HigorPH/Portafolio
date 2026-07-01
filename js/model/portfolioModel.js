@@ -4,7 +4,7 @@ export const portfolioData = {
     role: "Full-Stack Developer",
     intro: "Especializado en crear experiencias digitales excepcionales con un enfoque en el rendimiento, la accesibilidad y el diseño moderno.",
     about: "Soy un apasionado del desarrollo web con un fuerte enfoque en la creación de soluciones escalables y centradas en el usuario. Mi objetivo es transformar ideas complejas en interfaces intuitivas y funcionales, manteniendo siempre un código limpio y eficiente.",
-    photo: "img/perfil.jpg",
+    photo: "img/Foto-perfil1 copy.png",
     email: "higor13012006@email.com",
     github: "https://github.com/HigorPH",
     linkedin: "https://www.linkedin.com/in/higor-huaman-huanca-b029a630a/"

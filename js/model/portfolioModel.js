@@ -23,9 +23,9 @@ export const portfolioData = {
 
   projects: [
     {
-      title: "Whaticket Pro",
+      title: "Whaticket (Vista)",
       description: "Interfaz de sistema de gestión de mensajes para empresas. Implementacion de una interfaz reactiva para la atención al cliente masiva.",
-      tags: ["React", "Node.js", "Socket.io"],
+      tags: ["React", "Node.js", "Bootstrap 5"],
       image: "img/Whaticket (2).png",
       demo: "https://whatickets.netlify.app/conversaciones",
       code: "https://github.com/HigorPH/Whaticket"

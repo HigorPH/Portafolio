@@ -106,10 +106,7 @@ export class PortfolioView {
       <section class="section" id="contacto">
         <div class="container hidden">
           <div class="contact-card">
-            <h2 class="section-title">¿Tienes un <span class="gradient-text">proyecto</span> en mente?</h2>
-            <p style="color: var(--text-muted); margin-bottom: 2.5rem; font-size: 1.1rem;">
-              Estoy disponible para colaboraciones y nuevas oportunidades.
-            </p>
+            <h2 class="section-title">Gracias por ver y espero poder colaborar contigo</h2>
             
             <div class="contact-links">
               <a href="mailto:${personalInfo.email}" class="contact-pill">
